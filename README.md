@@ -56,7 +56,6 @@ print(Norm_of_matrix)
 ### 1-Norm of a Matrix
 ![image](https://github.com/Ajith1413/Norm-of-a-matrix/assets/139842524/8976f9a3-e41a-4c73-b444-4658c9876ade)
 
-### 2-Norm of a Matrix
 ![image](https://github.com/Ajith1413/Norm-of-a-matrix/assets/139842524/112326b8-1c9d-4856-9bf5-00cb05f6c632)
 
 
